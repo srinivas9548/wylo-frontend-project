@@ -1,0 +1,28 @@
+.create-post {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .create-post form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .create-post input,
+  .create-post textarea {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .create-post button {
+    align-self: flex-end;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+
+  .button {
+    cursor: pointer;
+  }
+  

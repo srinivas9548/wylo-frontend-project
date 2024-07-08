@@ -1,0 +1,15 @@
+.post-item {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .post-item h3 {
+    margin-top: 0;
+  }
+  
+  .post-item button {
+    padding: 5px 10px;
+    font-size: 14px;
+  }
+  
